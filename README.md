@@ -52,7 +52,11 @@
     * [演绎法](https://zh.wikipedia.org/zh-hans/%E6%BC%94%E7%BB%8E%E6%8E%A8%E7%90%86) - *从叫做前提的已知事实，必然地得出的推理。如果前提为真，则结论必然为真*
     * [溯因法](https://zh.wikipedia.org/zh-hans/%E6%BA%AF%E5%9B%A0%E6%8E%A8%E7%90%86) - *从事实推理到最佳解释的过程*
     * [归纳法](https://zh.wikipedia.org/zh-hans/%E5%BD%92%E7%BA%B3%E6%8E%A8%E7%90%86) - *论证的前提支持结论但不确保结论的推理过程*
-  * [举证责任](https://zh.wikipedia.org/zh-hans/%E8%88%89%E8%AD%89%E8%B2%AC%E4%BB%BB_(%E5%93%B2%E5%AD%B8)) - 知识论争议中一般共识：试图要他人接受一件事的人有义务为那件事提供适当理据。
+  * [条件](https://zh.wikipedia.org/zh-hans/%E5%85%85%E5%88%86%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6)
+    * 充分条件
+    * 必要条件
+  * [证据](https://zh.wikipedia.org/wiki/%E8%AD%89%E6%93%9A)
+    * [举证责任](https://zh.wikipedia.org/zh-hans/%E8%88%89%E8%AD%89%E8%B2%AC%E4%BB%BB_(%E5%93%B2%E5%AD%B8)) - 知识论争议中一般共识：试图要他人接受一件事的人有义务为那件事提供适当理据。
   * [谬误](https://zh.wikipedia.org/zh-hans/%E8%AC%AC%E8%AA%A4%E5%88%97%E8%A1%A8) - *以下仅列举常见的重要谬误*
     * [以偏概全](https://zh.wikipedia.org/zh-hans/%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8) - *参考上面信息鉴别方法一*
     * 选择偏差、[幸存者偏差](https://zh.wikipedia.org/zh-hans/%E5%80%96%E5%AD%98%E8%80%85%E5%81%8F%E5%B7%AE)
