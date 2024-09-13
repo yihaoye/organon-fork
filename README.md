@@ -1,4 +1,42 @@
-# Organon Fork / 通识工具小册
+# Organon Fork
+Alternatively, it can be referred to as the **Mini Code of Life** or **Framework for Life**. When people talk about being [rational and objective](https://en.wikipedia.org/wiki/Critical_thinking), there should be a concrete and actionable process to follow, rather than just abstract talk. It is certain that **knowledge is power**, and therefore, the contents here consist of classic methodologies and tools — all aimed at helping people work with more structure and speak with more clarity. The name "Organon Fork" is a tribute to Aristotle’s "Organon." A lack of rigor is essentially caused by either a lack of tools or intellectual laziness.
+
+The following is an aggregation of general knowledge and toolsets closely related to life. Most of it is the wisdom of predecessors, not my own creations (humanity has already solved most of these daily problems; hence, the content here aims to explain rather than create). Examples used to explain each concept are my personal thoughts, only intended to aid understanding. If the reader disagrees or finds the examples inaccurate, they can be skipped — what matters is the concept itself.
+
+This guide cannot directly solve more complex problems. However, much like politicians or leaders, such problems require finding the right professionals and organizing them to work together to achieve optimal results. Additionally, the organizer needs quick learning capabilities, all of which can be found here.
+
+## Methodologies / Tools
+* **Tool Overview**
+  * **Definition** – Broadly speaking, tools are not just physical objects; anything that assists people in living and working can be called a tool, including mental tools.
+  * **Why Tools Are Needed** – Humans are not perfect or precise beings, so tools are needed to assist (similar to how people need practice and fundamentals to improve performance and handle operations). Tools can improve efficiency, break innate limitations, correct errors, and increase accuracy.
+  * **How to Use Tools** – In addition to owning tools and understanding the related knowledge, repeated training and practice are also essential (you can refer to the section on deliberate practice at the end of this document).
+  * **Others** – In terms of effectiveness, general tools are not as efficient as specialized tools.
+* **Influencing Factors** – Applicable to a wide range of matters, including personal development.
+  * **Factor Classification**
+    * **Accumulation** – *Internal factors such as skills, training, savings, reputation, brand value, inertia, and historical determinism. These can be both positive or negative, like historical legacy issues.*
+    * **External Forces** – *External factors such as collaboration, luck, loans, purchases, inheritance, and historical contingency. These can also be both positive or negative, like natural disasters or accidents.*
+  * **Extension: Accumulation/Internal Factors vs. External Forces/External Factors** – These are often relative. For example, in a closed system, only internal factors exist, while the external factors of a subsystem may be the internal factors of a parent system.
+* **Information Management**
+  * [DIKW Model](https://en.wikipedia.org/wiki/DIKW_pyramid)
+    * **Data** – *For example, data samples like 1+2=3, 2+1=3, 2+3=5, 3+2=5, etc.*
+    * **Information** – *Derived from data, such as 1+2=2+1, 2+3=3+2, etc.*
+    * **Knowledge** – *More general understanding derived from data and information, like A+B=B+A.*
+    * **Wisdom** – *More universal and long-lasting than knowledge, such as methodologies like the DIKW model.*
+  * **Information Entropy**  
+    * [Information Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) – *Refers to the precision of information, derived from information theory and also a foundational theory of modern artificial intelligence. Lower entropy means a reduced possibility space, or more specific information. When using language, one should aim to lower entropy to reduce ambiguity. Conversely, when conveying a large amount of information with fewer words, using abstract language can raise entropy.*
+    * [Information Value](https://en.wikipedia.org/wiki/Value_of_information) – *Precision does not correlate directly with value. For example, trivial communication such as correcting a minor mispronunciation may have low value. Information, like goods, often holds lower value when freely available. High-value information should involve a form of equitable exchange.*
+  * **Information Verification** – This is also a standard requirement for modern academic papers and can be referred to as scientific or rigor assessment. Through standardized methods, people can make accurate judgments about the truth of matters without experiencing them firsthand. Below are three key principles that, although not always fully available in daily life, should be prioritized. For new topics, the criteria can be relaxed, but for established topics, they should be stricter. Obstructing these principles without necessity can be considered suspicious of fraud.
+    * **Repeatability, Executability, High Likelihood of Reproduction** – *For example, 1+1 will always equal 2, and physical or chemical experiments should always yield the same results under the same conditions.*  
+      * **Historical Consistency** – *A subset of repeatability or probability statistics. For example, does the source consistently change its viewpoint? The credibility of a source can be evaluated based on its past reliability.*
+      * **Verification Over Time** – *As time progresses, more comprehensive analysis and evidence will emerge. Maintaining a lie requires effort, while truth tends to persist more easily.*
+      * **Controlled Variables** – *Some experiments require controlled conditions, such as temperature, double-blind tests, or A/B testing.*
+    * **Detailed Information or Data (More Evidence, Quantified Data)** – *More detailed data is harder to fabricate. Lies tend to lead to contradictions that cannot be logically reconciled. Detailed information serves as a powerful verification tool.*  
+      * [Bayes' Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) – *For example, does the evidence provided have low entropy or a low likelihood of occurrence?*
+    * **Cross-Validation (Multiple Sources, Multidomain Confirmation)** – *For instance, journalism often requires two or more sources. Other fields like accounting (double-entry bookkeeping), information security (multi-factor authentication), and modern medicine use cross-validation methods.*  
+      * *Secondary Events / “Once is Chance, Twice is Coincidence” – A variant of cross-validation.*
+
+
+# 通识工具小册
 或者可以称为 Mini Code of Life / 生活章法框架。  
 当人们说要[理性客观](https://zh.wikipedia.org/wiki/%E6%89%B9%E5%88%A4%E6%80%A7%E6%80%9D%E7%BB%B4)时，应该有一套具体的可执行的流程方法，而不只是抽象的空口白话而已，可以肯定的相信**知识就是力量**，因此这里的内容皆为经典方法工具 - 希望有助于做事更有章法、说话更有条理，名称 Organon Fork 致敬亚里士多德的《工具论》。不严谨本质上是因为缺乏工具或思想偷懒造成的。  
 
