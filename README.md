@@ -133,6 +133,8 @@ This guide cannot directly solve more complex problems. However, much like polit
     * 后见之明偏误 - 事后诸葛
     * 先入为主、[刻板印象](https://zh.wikipedia.org/wiki/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1)、[主观验证](https://zh.wikipedia.org/wiki/%E4%B8%BB%E8%A7%82%E9%AA%8C%E8%AF%81) - 比如信息茧房
     * [妄下结论](https://zh.wikipedia.org/wiki/%E5%A6%84%E4%B8%8B%E7%BB%93%E8%AE%BA) - 比如当一个人对别人将要说的话做出假设时，通常会用“我知道你要说什么”这样的话来打断他们
+    * [聚光灯效应](https://zh.wikipedia.org/zh-hans/%E8%81%9A%E5%85%89%E7%87%88%E6%95%88%E6%87%89) - 指人们认为自己很受其他人所留意著，高估自身言行举止受他人关注的程度。每当我们出现不好的状况时，这个效应会变得更明显
+    * [锚定效应](https://zh.wikipedia.org/wiki/%E5%AE%9A%E9%8C%A8%E6%95%88%E6%87%89) - 在进行决策时，会过度偏重先前取得的资讯（这称为锚点），即使这个资讯与这项决定无关
     * 安慰剂效应 - 药物测试
 * [逻辑基础](https://zh.wikipedia.org/wiki/%E7%BB%8F%E5%85%B8%E9%80%BB%E8%BE%91)
   * [推理](https://zh.wikipedia.org/zh-hans/%E5%B7%A5%E5%85%B7%E8%AB%96) - *以下 3 点来源于亚里士多德的《工具论》*
