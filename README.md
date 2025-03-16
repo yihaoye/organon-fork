@@ -124,7 +124,7 @@ This guide cannot directly solve more complex problems. However, much like polit
       * 误导迷惑
         * 直接明言 - *直接的给予错误的信息*
         * 暗示引导 - *直接的给予错误的信息是较为低级的谎言，相比之下较为容易揭穿问责，高级的谎言不直接明言于受众，而是使用暗示引导，比如提供正确但模棱两可、片面的、设计的、有选择的信息组合让受众更大概率地往被引导的方向上去理解（通常这些信息可以得出多种不同的理解包括正确的理解，但更容易偏向其中一种或多种错误的理解），若日后谎言被揭穿时他们通常可以以受众理解错误为借口撇清责任；例子如语言伪术。因此注意确认具体信息、细节并排除模糊不清是重要的*
-* [认知论](https://zh.wikipedia.org/wiki/%E8%AE%A4%E8%AF%86%E8%AE%BA)和[认知科学](https://zh.wikipedia.org/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6)
+* [认知论](https://zh.wikipedia.org/wiki/%E8%AE%A4%E8%AF%86%E8%AE%BA)和[认知科学](https://zh.wikipedia.org/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6) - 相关书籍如[《认知觉醒》](https://www.youtube.com/watch?v=QZwgC5Ro-Vs)
   * 更多[认知偏差](https://zh.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4%E5%88%97%E8%A1%A8)和[认知扭曲](https://zh.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E6%89%AD%E6%9B%B2) - *除了前面已列出的几个外，以下仅列举其他常见的重要偏差*
     * [幸存者偏差](https://zh.wikipedia.org/zh-hans/%E5%80%96%E5%AD%98%E8%80%85%E5%81%8F%E5%B7%AE)
     * [知识诅咒](https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AD%98%E7%9A%84%E8%A9%9B%E5%92%92)
