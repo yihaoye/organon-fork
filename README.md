@@ -418,7 +418,7 @@ This guide cannot directly solve more complex problems. However, much like polit
     * 关于权力
       * [权力基础](https://zh.wikipedia.org/zh-hans/%E6%AC%8A%E5%8A%9B) - *下面按重要性排序*
         * 法定 | Legitimate - 最重要且难以撼动的，通常基于组织规则、结构性暴力与资源；
-          * 强制 | Coercive - 例如惩罚，通常伴随法定权力的规则、系统性压力而来或军事暴力；
+          * 强制 | Coercive - 例如惩罚，通常伴随法定权力的规则、系统性压力而来或军事暴力、武力；
           * 奖赏 | Reward - 可以是物质的也可以是精神的，通常伴随法定权力而来，参考[利出一孔](https://news.ifeng.com/history/special/shiyan/201001/0103_9078_1496614.shtml)；
         * 专家 | Expert - 专业能力，通常与信息权合用；
         * 信息 | Informational - 比如掌握特定、机密、稀缺、重要信息或信息渠道；
