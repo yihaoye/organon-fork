@@ -69,7 +69,7 @@ This guide cannot directly solve more complex problems. However, much like polit
       * 经时间验证 - *另一种子集、变体，随着长时间推移，会有更多全面的分析、证据参与进来以及利益相关者可能发生变动，因此谎言的维护可能会被弃置（需要成本或利益冲突），因此通常真相实情才更容易留存（真相实情的延续成本较低或没有成本）*
       * [变量、参数控制](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E8%AE%8A%E6%95%B8) - *有些重现需要给定条件，比如物流物资保管温度或湿度控制等、医学的双盲实验、对照实验、[A/B测试](https://zh.wikipedia.org/zh-hans/A/B%E6%B8%AC%E8%A9%A6)、经济学里的理性人假设*
     * **详细内容或数据（多细节、多证据、多量化）**- 具体通常为 DIKW 里的 DI 以及定理 K。*造假情况下（可参考下面的谎言技巧），多细节（数据、信息）容易互相矛盾不能自圆其说（所以一般谎言会需要更多的谎言去掩盖最终导致逻辑不自洽），所以多细节是很好的验证工具，例子如药物的起效主成分、分子式、药理、副作用、用药量等等，反例如讲解点到为止、传统武学的术高莫用之类*
-      * [5W1H 分析法](https://en.wikipedia.org/wiki/Five_Ws) - Who、What、When、Where、Why、How；比如在执行任务时，可以根据本分析法列出所有细节，以提高效率和效果（精确度、发现漏洞等）
+      * [5W1H 分析法](https://en.wikipedia.org/wiki/Five_Ws) - Who、What、When、Where、Why、How；比如在执行任务时，可以根据本分析法列出所有细节，以提高效率和效果（精确度、发现漏洞等）。5W1H 同时也是新闻六要素
       * [贝叶斯公式](https://www.youtube.com/watch?v=Hyg9RQutKEQ) - 比如基于的细节、证据本身是否信息熵低、精确、概率低
       * 数据、信息核查方法
         * 奇怪的数据，比如特别整的违反常识的数据
